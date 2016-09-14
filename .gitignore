@@ -64,5 +64,6 @@ nb-configuration.xml
 !.gitattributes
 !.tx
 !.github/
+!.travis.yml
 *~
 #############
